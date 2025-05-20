@@ -5,5 +5,5 @@ my PCBs includes:
   2) A highly constraint Power supply circuit to comply with the ATEX explosive zone safety requirement
   3) A dual band RF communication circuit for BLE 2.4Ghz and LoRaWa 868Mhz, using RF switch to switch between each wireless communication
   4) RF matching circuit  making sure that all RF line impedance match the antenna impedance (50Ohm)
-  5) Usage of highly sophisticated IMU sensor (MEMS technology) : Accelorematers (BHI160), magnetometers, 
+  5) Usage of highly sophisticated IMU sensor (MEMS technology) : Accelorematers (BHI160), Magnetometers,...
   
