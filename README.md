@@ -8,5 +8,8 @@ my PCBs includes skills:
   5) Usage of highly sophisticated IMU sensor (MEMS technology) : Accelorematers (BHI160), Magnetometers,...
 
 
-# Oversview
-  I am a embedded systems enginner with experinece in designing and fabricating PCBs using ALTIUM DESIGNER. i have designed and fabricated numerous PCBs for various application, including Gas quality dectection sensor , pipeline Vanne position sensor, pipeline pressure detection sensor 
+# Overview
+  I am a embedded systems enginner with experinece in designing and fabricating PCBs using ALTIUM DESIGNER. i have designed and fabricated numerous PCBs for various application, including Gas quality dectection sensor , pipeline Vanne positionning sensor, pipeline pressure detection sensor, pipeline leak detection sensor
+  
+
+# Projects
