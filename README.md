@@ -57,3 +57,12 @@ my PCBs includes skills:
 ![sensaLite1](https://github.com/user-attachments/assets/45ca1883-35e0-4467-a11e-5f56c74f5ec1)
 ![sensaLite2](https://github.com/user-attachments/assets/a7b3b324-89a0-4a8c-8dc7-57f97e5cc46a)
 ![many_sensaLIte](https://github.com/user-attachments/assets/ca930b6f-516d-4d95-89c4-129624757779)
+
+4) Gas quality monitoring sensor:
+   ![Gas](https://github.com/user-attachments/assets/1ad40198-d9ad-49ee-b6ab-0f20f9528bdd)
+![gas_meca](https://github.com/user-attachments/assets/66c9c0ea-fa4a-4031-9ed3-f36f1251fdb2)
+
+![gas1](https://github.com/user-attachments/assets/3f9319fc-4e0f-4d67-a121-ab9f457d9a62)
+![gas_meca2](https://github.com/user-attachments/assets/d17932da-f556-467e-b2c1-a95d607bf178)
+
+
