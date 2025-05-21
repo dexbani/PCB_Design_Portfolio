@@ -36,9 +36,9 @@ my PCBs includes :
 
 ![mainboard_back](https://github.com/user-attachments/assets/0b107b20-1027-4987-be64-a30068d7b73c)
 
-![mainboard_fab png](https://github.com/user-attachments/assets/4a841e9f-5400-49b0-8fd5-a912c3d0147c)
+Fabrication :
 
-  Fabrication :
+![mainboard_fab png](https://github.com/user-attachments/assets/4a841e9f-5400-49b0-8fd5-a912c3d0147c)
 
 ![maiboard_fab2](https://github.com/user-attachments/assets/11310026-bafb-44d3-bb64-b6eacbeb0735)
 ![integration](https://github.com/user-attachments/assets/1e975412-de37-4be0-8aaf-511f6675593d)
