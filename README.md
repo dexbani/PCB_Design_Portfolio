@@ -21,7 +21,7 @@ my PCBs includes :
   - knowledge in component selection for RF and classic circuit
   - knowledge in power supply design
   - Good at RF circuit debug using spectrum analizer , VNA, and smith chart, Oscilloscop, Multimeter
-  - very good at Annalog circuit design: signal conditioning circuit
+  - very good at Analog circuit design: signal conditioning circuit
   - Passionate about firmware development using Embedded C for microcontrollers (MCUs)
   
 
