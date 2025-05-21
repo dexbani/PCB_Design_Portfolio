@@ -53,7 +53,9 @@ my PCBs includes :
 ![sensorboard1](https://github.com/user-attachments/assets/ecc0d731-c4e6-4d23-9331-8984ae9457fb)
 
 3) Vanne Positionnig PCB design
-   
+   usage of a super-capacitor for more curet boosst eeded for LoRaWa transmisssion
+   ![sensaLite0](https://github.com/user-attachments/assets/4ceee6ce-47e3-4c83-ad0f-bd0261f615e5)
+
 ![Capture d’écran 2025-05-21 070355](https://github.com/user-attachments/assets/b0614702-c5d5-440a-b4aa-d6ae46267a60)
 
 ![sensaLite](https://github.com/user-attachments/assets/0ab60a65-057f-40d8-aa7b-aa8d3dc95e1a)
