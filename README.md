@@ -38,7 +38,7 @@ my PCBs includes skills:
 ![maiboard_fab2](https://github.com/user-attachments/assets/11310026-bafb-44d3-bb64-b6eacbeb0735)
 ![integration](https://github.com/user-attachments/assets/1e975412-de37-4be0-8aaf-511f6675593d)
 
-  Main board dual band PCB antenna:
+  Main board dual band (LoRaWa ,BLE) PCB antenna:
   
 ![antenna](https://github.com/user-attachments/assets/ee7ffafe-bf96-4d8d-86f4-a0ebd3281f10)
 
