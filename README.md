@@ -22,5 +22,6 @@ my PCBs includes skills:
 
 4) Design of a fine particule detection sensor :  The fine particle sensor operates by utilizing a laser and a DC motor. The motor draws particles into the sensor, and as these particles pass through the laser beam, they cause a deflection. This deflection is detected by a photodiode. A signal conditioning circuit processes the photodiode signal, which is then measured by the ADC (Analog-to-Digital Converter).The sensor's firmware processing is handled by an STM32 microcontroller integrated into the circuit board. This microcontroller enables efficient data handling and communication, ensuring accurate readings and processing of the sensor's outputs.
    
+# PCBs images
 
-
+![Capture d’écran 2025-05-21 070355](https://github.com/user-attachments/assets/1bb101b2-8062-4bce-b65a-f0384674bdc9)
