@@ -26,7 +26,8 @@ my PCBs includes skills:
 # PCBs images
 
   1) SensaIO Mainboard (mother board):
-     Desig on altium:
+     
+     Design on altium:
 ![sensorIO mainboard](https://github.com/user-attachments/assets/c96539c7-ef64-4480-998f-68014e5f7f76)
 
 ![mainboard_back](https://github.com/user-attachments/assets/0b107b20-1027-4987-be64-a30068d7b73c)
