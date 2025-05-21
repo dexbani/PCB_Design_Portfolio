@@ -53,8 +53,6 @@ my PCBs includes :
 ![sensorboard1](https://github.com/user-attachments/assets/ecc0d731-c4e6-4d23-9331-8984ae9457fb)
 
 3) Vanne Positionnig PCB design
-   usage of a super-capacitor for more curet boosst eeded for LoRaWa transmisssion
-   ![sensaLite0](https://github.com/user-attachments/assets/4ceee6ce-47e3-4c83-ad0f-bd0261f615e5)
 
 ![Capture d’écran 2025-05-21 070355](https://github.com/user-attachments/assets/b0614702-c5d5-440a-b4aa-d6ae46267a60)
 
@@ -62,6 +60,9 @@ my PCBs includes :
 ![sensaLite1](https://github.com/user-attachments/assets/45ca1883-35e0-4467-a11e-5f56c74f5ec1)
 ![sensaLite2](https://github.com/user-attachments/assets/a7b3b324-89a0-4a8c-8dc7-57f97e5cc46a)
 ![many_sensaLIte](https://github.com/user-attachments/assets/ca930b6f-516d-4d95-89c4-129624757779)
+
+ usage of a super-capacitor for more curet boosst eeded for LoRaWa transmisssion
+ ![sensaLite0](https://github.com/user-attachments/assets/4ceee6ce-47e3-4c83-ad0f-bd0261f615e5)
 
 4) Gas quality monitoring sensor:
    ![Gas](https://github.com/user-attachments/assets/1ad40198-d9ad-49ee-b6ab-0f20f9528bdd)
