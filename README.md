@@ -17,10 +17,10 @@ my PCBs includes :
   - HDI PCB design with multiple layers and RF circuit line routing
   - High speed circuit routing (lenght matching , differential line lenght matching)
   - I2C, SPI, USB, USB3 PCIE line routing
-  - impedence matching
+  - impedence matching 
   - knowledge in component selection for RF and classic circuit
   - knowledge in power supply design
-  - good at RF circuit debug using spectrum analizer , VNA, and smith chart
+  - Good at RF circuit debug using spectrum analizer , VNA, and smith chart, Oscilloscop, Multimeter
   - very good at Annalog circuit design: signal conditioning circuit
   - Passionate about firmware development using Embedded C for microcontrollers (MCUs)
   
