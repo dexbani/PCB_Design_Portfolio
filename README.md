@@ -61,7 +61,7 @@ my PCBs includes :
 ![sensaLite2](https://github.com/user-attachments/assets/a7b3b324-89a0-4a8c-8dc7-57f97e5cc46a)
 ![many_sensaLIte](https://github.com/user-attachments/assets/ca930b6f-516d-4d95-89c4-129624757779)
 
- usage of a super-capacitor for more curet boosst eeded for LoRaWa transmisssion
+ usage of a super-capacitor for more current boost needed for LoRaWa transmission
  ![sensaLite0](https://github.com/user-attachments/assets/4ceee6ce-47e3-4c83-ad0f-bd0261f615e5)
 
 4) Gas quality monitoring sensor:
