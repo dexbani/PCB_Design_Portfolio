@@ -31,7 +31,6 @@ my PCBs includes :
      
      Design on altium:
      
-![mainboard_b](https://github.com/user-attachments/assets/48782217-e14e-4ce0-a9ca-27025f15644d)
  
 ![sensorIO mainboard](https://github.com/user-attachments/assets/c96539c7-ef64-4480-998f-68014e5f7f76)
 
