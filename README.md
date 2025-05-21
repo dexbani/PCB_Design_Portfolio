@@ -13,6 +13,18 @@ my PCBs includes :
 # Overview
   I am a embedded systems engineer with big experience in PCBs design and fabricating  using ALTIUM DESIGNER. i have designed and fabricated numerous PCBs for various application, including Gas quality dectection sensor , pipeline Vanne positionning sensor, pipeline presure detection sensor, pipeline leak detection sensor, pipeline Temperature sensor.All these sensors use the same main board; only the sensor boards are interchangeable. Sensor data is transmitted wirelessly to the cloud via LoRaWAN. BLE is used for sensor configuration through a mobile app. I also have a very big experience in developing firmware for MCU using embedded C language.
   
+# skills
+  - HDI PCB design with multiple layers and RF circuit line routing
+  - High speed circuit routing (lenght matching , differential line lenght matching)
+  - I2C, SPI, USB, USB3 PCIE line routing
+  - impedence matching
+  - knowledge in component selection for RF and classic circuit
+  - knowledge in power supply design
+  - good at RF circuit debug using spectrum analizer , VNA, and smith chart
+  - very good at Annalog circuit design: signal conditioning circuit
+  - Passionate about firmware development using Embedded C for microcontrollers (MCUs)
+  
+
 
 # Projects
 
