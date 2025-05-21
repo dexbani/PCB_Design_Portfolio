@@ -11,7 +11,7 @@ my PCBs includes :
 
 
 # Overview
-  I am a embedded systems engineer with big experience in PCBs design and fabricating  using ALTIUM DESIGNER. i have designed and fabricated numerous PCBs for various application, including Gas quality dectection sensor , pipeline Vanne positionning sensor, pipeline pressure detection sensor, pipeline leak detection sensor, pipeline Teemperature sensor.All these sensors use the same main board; only the sensor boards are interchangeable. Sensor data is transmitted wirelessly to the cloud via LoRaWAN. BLE is used for sensor configuration through a mobile app. I also have a very big experience in developing firmware for MCU using embedded C language.
+  I am a embedded systems engineer with big experience in PCBs design and fabricating  using ALTIUM DESIGNER. i have designed and fabricated numerous PCBs for various application, including Gas quality dectection sensor , pipeline Vanne positionning sensor, pipeline presure detection sensor, pipeline leak detection sensor, pipeline Temperature sensor.All these sensors use the same main board; only the sensor boards are interchangeable. Sensor data is transmitted wirelessly to the cloud via LoRaWAN. BLE is used for sensor configuration through a mobile app. I also have a very big experience in developing firmware for MCU using embedded C language.
   
 
 # Projects
