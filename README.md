@@ -50,4 +50,10 @@ my PCBs includes skills:
 ![sensorboard](https://github.com/user-attachments/assets/5e8d62bc-2fcf-4fdb-9534-56f2592cb5a7)
 ![sensorboard1](https://github.com/user-attachments/assets/ecc0d731-c4e6-4d23-9331-8984ae9457fb)
 
+3) Vanne Positionnig PCB design
+![Capture d’écran 2025-05-21 070355](https://github.com/user-attachments/assets/b0614702-c5d5-440a-b4aa-d6ae46267a60)
 
+![sensaLite](https://github.com/user-attachments/assets/0ab60a65-057f-40d8-aa7b-aa8d3dc95e1a)
+![sensaLite1](https://github.com/user-attachments/assets/45ca1883-35e0-4467-a11e-5f56c74f5ec1)
+![sensaLite2](https://github.com/user-attachments/assets/a7b3b324-89a0-4a8c-8dc7-57f97e5cc46a)
+![many_sensaLIte](https://github.com/user-attachments/assets/ca930b6f-516d-4d95-89c4-129624757779)
