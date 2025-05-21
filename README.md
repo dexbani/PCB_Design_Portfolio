@@ -9,7 +9,18 @@ my PCBs includes skills:
 
 
 # Overview
-  I am a embedded systems enginner with experinece in designing and fabricating PCBs using ALTIUM DESIGNER. i have designed and fabricated numerous PCBs for various application, including Gas quality dectection sensor , pipeline Vanne positionning sensor, pipeline pressure detection sensor, pipeline leak detection sensor
+  I am a embedded systems engineer with big experience in PCBs design and fabricating  using ALTIUM DESIGNER. i have designed and fabricated numerous PCBs for various application, including Gas quality dectection sensor , pipeline Vanne positionning sensor, pipeline pressure detection sensor, pipeline leak detection sensor, pipeline Teemperature sensor.All these sensors use the same main board; only the sensor boards are interchangeable. Sensor data is transmitted wirelessly to the cloud via LoRaWAN. BLE is used for sensor configuration through a mobile app.
   
 
 # Projects
+
+1) The design and the  fabrication of the sensaIO Main board (Mother board)  : This board will be use to power, process the data, and handle the wireless data tranfer for various sensor board (pressure sensor board, temperature sensorbaord, leak detection sensorboard, vanne positionning sensor board). The main board is a 6 layers PCB board that  includes a Flex layer. the Flex layer connect the ATEX certified power part of the circuit (where the pogo pin for sensorboard are located) to the MCU and RF part of the baord.
+
+2) Design of the sensor board PCBs : vanne positionning sensor board, Temperature sensor board, pressure sensor board, leak sensor board. this sensor board will be connected to the main board discrib above.
+
+3) Design of a Motion sensor using a dual core MCU from infineon (PSOC6 CORTEX M4 & M0) with an IMU (Inertial measurement unit) 
+
+4) Design of a fine particule detection sensor :  The fine particle sensor operates by utilizing a laser and a DC motor. The motor draws particles into the sensor, and as these particles pass through the laser beam, they cause a deflection. This deflection is detected by a photodiode. A signal conditioning circuit processes the photodiode signal, which is then measured by the ADC (Analog-to-Digital Converter).The sensor's firmware processing is handled by an STM32 microcontroller integrated into the circuit board. This microcontroller enables efficient data handling and communication, ensuring accurate readings and processing of the sensor's outputs.
+   
+
+
