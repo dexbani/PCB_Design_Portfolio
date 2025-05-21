@@ -43,4 +43,10 @@ my PCBs includes skills:
   
 ![antenna](https://github.com/user-attachments/assets/ee7ffafe-bf96-4d8d-86f4-a0ebd3281f10)
 
-  
+2) Sensor board PCB design:
+
+   this board will be connected to the mainboard presented above.
+![sensorboard](https://github.com/user-attachments/assets/5e8d62bc-2fcf-4fdb-9534-56f2592cb5a7)
+![sensorboard1](https://github.com/user-attachments/assets/ecc0d731-c4e6-4d23-9331-8984ae9457fb)
+
+
