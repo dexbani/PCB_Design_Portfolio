@@ -86,7 +86,8 @@ Fabrication :
 ![gas_meca2](https://github.com/user-attachments/assets/d17932da-f556-467e-b2c1-a95d607bf178)
 
 5) Fine particule detection sensor
- ![fine_particule_sensore](https://github.com/user-attachments/assets/048503f3-3a80-46f2-a9cc-889fb56aa8bb)
+
+![fine_particule_sensore2](https://github.com/user-attachments/assets/19f9af4a-87cd-4333-bb4e-b2c0137514de)
 
 
 
