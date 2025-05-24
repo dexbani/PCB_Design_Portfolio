@@ -87,10 +87,10 @@ Fabrication :
 
 5) Fine particule detection sensor
  top layer: a fan is use to draw the particule dust into the system.
- we also have all the signal conditionnig circuit and power circuit on this top layer
+ all the signal conditionnig circuit and power circuit on this top layer
 ![fine_particule_sensore2](https://github.com/user-attachments/assets/19f9af4a-87cd-4333-bb4e-b2c0137514de)
 
-bottom layer: these particles pass through the laser beam, they cause a deflection. This deflection is detected by 2 photodiodes ( we can see the laser and the phodiode(surface mounted) of the bootom  side of pcb
+bottom layer: these particles pass through the laser beam, they cause a deflection. This deflection is detected by 2 photodiodes ( you can see the laser and the 2 phodiodes(the photodios are surface mounted) 
 
 ![particule_matter_bottom](https://github.com/user-attachments/assets/bdbfa5f2-a773-4881-9bda-dbda1a23cf77)
 
