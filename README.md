@@ -86,11 +86,12 @@ Fabrication :
 ![gas_meca2](https://github.com/user-attachments/assets/d17932da-f556-467e-b2c1-a95d607bf178)
 
 5) Fine particule detection sensor
+   
  top layer: a fan is use to draw the particule dust into the system.
- all the signal conditionnig circuit and power circuit on this top layer
+ The signal conditionnig circuit, power supply circuit, ad the MCU are on this top layer
 ![fine_particule_sensore2](https://github.com/user-attachments/assets/19f9af4a-87cd-4333-bb4e-b2c0137514de)
 
-bottom layer: these particles pass through the laser beam, they cause a deflection. This deflection is detected by 2 photodiodes ( you can see the laser and the 2 phodiodes(the photodios are surface mounted) 
+bottom layer: you can see the laser beam that is use to detect the presence of particule matter by defecltion. This deflection is detected by 2 photodiodes ( you can see the laser and the 2 phodiodes(the photodios are surface mounted). the photodiode signal is measure by the adc integrateed in the MCU located on the top layer of the PCB. 
 
 ![particule_matter_bottom](https://github.com/user-attachments/assets/bdbfa5f2-a773-4881-9bda-dbda1a23cf77)
 
