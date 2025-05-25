@@ -91,7 +91,7 @@ Fabrication :
  The signal conditionnig circuit, power supply circuit, ad the MCU are on this top layer
 ![fine_particule_sensore2](https://github.com/user-attachments/assets/19f9af4a-87cd-4333-bb4e-b2c0137514de)
 
-bottom layer: you can see the laser beam that is use to detect the presence of particule matter by defecltion. This deflection accure when evers there a particule matter. the deflection intensity is detected by 2 photodiodes ( you can see the laser and the 2  surface mount photodiode on the bottom layer of the PCB bellow ). the photodiode signal is measure by MCU ADC located on the top layer of the PCB. 
+bottom layer: you can see the laser beam that is use to detect the presence of particule matter by defecltion. This deflection accure when ever there is a particule matter. the deflection intensity is detected by 2 photodiodes ( surface mounted ). the photodiode signal is measure by MCU ADC located on the top layer of the PCB. 
 
 ![particule_matter_bottom](https://github.com/user-attachments/assets/bdbfa5f2-a773-4881-9bda-dbda1a23cf77)
 
