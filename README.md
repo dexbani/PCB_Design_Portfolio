@@ -87,7 +87,7 @@ Fabrication :
 
 5) Fine particule detection sensor
    
- top layer: a fan is use to draw the particule dust into the system.
+ top layer: a fan is use to draw the particule matter into the system.
  The signal conditionnig circuit, power supply circuit, ad the MCU are on this top layer
 ![fine_particule_sensore2](https://github.com/user-attachments/assets/19f9af4a-87cd-4333-bb4e-b2c0137514de)
 
